@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Natural Intelligence Laboratory"
+title: "Lab"
 permalink: /lab/
 author_profile: true
 ---
