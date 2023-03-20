@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Check out [lab website](https://natural-intelligence-lab.github.io/job), if you're interested in joining the lab!
+Check out [lab website](https://natural-intelligence-lab.github.io/join), if you're interested in joining the lab!
