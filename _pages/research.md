@@ -23,11 +23,10 @@ author_profile: true
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations in collaboration with Dr. Mehrdad Jazayeri at MIT. The large-scale neural data and its dynamical-systems analysis, will shed light on how the cortical population dynamics unfold during the relational inference. We also train artificial (graph) neural networks on the relational reasoning task and “open up” to examine how similar or different biological and artificial networks are during the task. Ultimately, this project will provide an opportunity to reverse engineer natural intelligence for neuro-AI applications.
 
 <img src="../images/LyuAbbottMaimon.png" width="500">
-<p style="text-align: right;">Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </p>
+<p style="text-align: left;">_Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature_ </p>
 
 ## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
 _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
-
 _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
 
 <img src="../images/postdoc_monkey.png" width="500">
@@ -41,13 +40,13 @@ _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) 
 * Sohn H^, Narain D^, Meirhaeghe N^, Jazayeri M (2019) Bayesian computation through cortical latent dynamics. Neuron 103(5):934-947. PMID31320220 (^Equal Contribution).
     * highlighted in [brain inspired podcast] (https://braininspired.co/podcast/113/)
     * selected as the best talk in Motor Learning and Motor Control, Official satellite meeting of
-the Society for Neuroscience
+the Society for Neuroscience (2018)
 * Sohn H, Jazayeri M (2021) Validating model-based Bayesian integration using prior-cost metamers. Proc Natl Acad Sci U S A 118 (25): e2021531118. PMID34161261
 * Sohn H^, Meirhaeghe N^, Rajalingham R, Jazayeri M (2020) A network perspective on sensorimotor learning. Trends in Neuroscience 44(3):170-181. PMID33349476 (^Equal Contribution).
 * Sohn H, Narain D (2021) Neural implementations of Bayesian computation. Current Opinion in Neurobiology 70:121-129. PMID34678599
 * Meirhaeghe N, Sohn H, Jazayeri M (2021) A precise and adaptive neural mechanism for predictive temporal processing in the frontal cortex. Neuron. 109(18):2995-3011.e5. PMID34534456
 * Kleinman MR, Sohn H, Lee D (2016) A two-stage model for concurrent interval timing in monkeys. J Neurophysiol 116(3):1068-1081. PMID27334954.
-* Beiran M^, Meirhaeghe N^, Sohn H, Jazayeri M, Ostojic S (2023) Parametric control of flexible timing through low-dimensional neural manifolds. Neuron. S0896-6273(22)01089-3. https://doi.org/10.1016/j.neuron.2022.12.016. PMID 36640766 (^Equal Contribution)
+* Beiran M^, Meirhaeghe N^, Sohn H, Jazayeri M, Ostojic S (2023) Parametric control of flexible timing through low-dimensional neural manifolds. Neuron. S0896-6273(22)01089-3. PMID 36640766 (^Equal Contribution)
 * Keshtkaran MR^, Sedler AR^, Chowdhury RH, Tandon R, Basrai D, Nguyen SL, Sohn H, Mehrdad M, Miller LE, Pandarinath C (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics. Nature Methods. 19: 1572-1577 PMID 36443486 (^Equal Contribution)
 
 
