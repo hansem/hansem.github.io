@@ -17,19 +17,19 @@ author_profile: true
   * What is the role of the prefrontal and posterior parietal cortex in processing numerical information? Are they rather independent modules or parts of a big recurrent network?
   * Do humans and non-human primates share similar neural mechanisms for magnitude processing?
 
-<img src="../images/number_project.png" width="500">
+<img src="../images/number_project.png" width="700">
 
 ## Project 2. Neural basis of relational inference in posterior parietal cortex
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations in collaboration with Dr. Mehrdad Jazayeri at MIT. The large-scale neural data and its dynamical-systems analysis, will shed light on how the cortical population dynamics unfold during the relational inference. We also train artificial (graph) neural networks on the relational reasoning task and “open up” to examine how similar or different biological and artificial networks are during the task. Ultimately, this project will provide an opportunity to reverse engineer natural intelligence for neuro-AI applications.
 
 <img src="../images/LyuAbbottMaimon.png" width="500">
-<p style="text-align: left;">_Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature_ </p>
+<p style="text-align: left;">Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </p>
 
 ## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
-_Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
-_Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
+>_Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
+>_Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
 
-<img src="../images/postdoc_monkey.png" width="500">
+<img src="../images/postdoc_monkey.png" width="700">
 
 **Research questions**
 * What is the neural mechanism behind behavioral biases in interval timing? (answer: curved neural manifold)
@@ -51,9 +51,9 @@ the Society for Neuroscience (2018)
 
 
 ## Bayesian interval timing in human behavior & neuroimaging
-_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013_
+>_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013_
 
-<img src="../images/phd_human.png" width="500">
+<img src="../images/phd_human.png" width="700">
 
 * Many of our behaviors exhibit biases and rely on heuristics built through prior experiences. This process has been formalized by Bayesian decision theory, which has been quite successful in explaining behaviors across many different domains. One of the domains where the behavioral biases express prominently is timing and time perception, partly owing to its high measurement noises. After being trained in visual neuroscience (e.g., studying binocular rivalry), I performed human psychophysics experiments to study long-term learning of the interval timing and applied a Bayesian modeling approach to reveal underlying computational principles. I also collected human functional MRI data while subjects are performing the interval-timing task.
 
@@ -62,8 +62,7 @@ _Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National Un
 * Brascamp JW, Sohn H, Lee SH, Blake R (2013) A monocular contribution to stimulus rivalry. Proc Natl Acad Sci U S A 110(21): 8337-8344. PMID23610414
 
 ## Neuroeconomic approach to temporal discounting of monetary gain and loss
-
-_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
+>_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
 
 * I performed human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
 * I collaborated with clinicians to analyze EEGs of patients with neurological and psychiatric disorders using information theory and nonlinear dynamics.
