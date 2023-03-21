@@ -39,7 +39,7 @@ How does the brain make inferences based on relations between objects? To tackle
 
 **Publications**
 * Sohn H^, Narain D^, Meirhaeghe N^, Jazayeri M (2019) Bayesian computation through cortical latent dynamics. Neuron 103(5):934-947. PMID31320220 (^Equal Contribution).
-    * highlighted in [brain inspired podcast] (https://braininspired.co/podcast/113/)
+    * highlighted in [brain inspired podcast](https://braininspired.co/podcast/113/)
     * selected as the best talk in Motor Learning and Motor Control, Official satellite meeting of
 the Society for Neuroscience (2018)
 * Sohn H, Jazayeri M (2021) Validating model-based Bayesian integration using prior-cost metamers. Proc Natl Acad Sci U S A 118 (25): e2021531118. PMID34161261
@@ -51,7 +51,7 @@ the Society for Neuroscience (2018)
 * Keshtkaran MR^, Sedler AR^, Chowdhury RH, Tandon R, Basrai D, Nguyen SL, Sohn H, Mehrdad M, Miller LE, Pandarinath C (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics. Nature Methods. 19: 1572-1577 PMID 36443486 (^Equal Contribution)
 
 
-## Bayesian interval timing in human behavior & neuroimaging
+## Previous project 2. Bayesian interval timing in human behavior & neuroimaging
 >_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013_
 
 <img src="../images/phd_human.png" width="700">
@@ -62,7 +62,7 @@ the Society for Neuroscience (2018)
 * Sohn H, Lee SH (2013) Dichotomy in perceptual learning of interval timing: calibrations of mean accuracy and precision differ in specificity and time course. J Neurophysiol 109:344-362. PMID23076112
 * Brascamp JW, Sohn H, Lee SH, Blake R (2013) A monocular contribution to stimulus rivalry. Proc Natl Acad Sci U S A 110(21): 8337-8344. PMID23610414
 
-## Neuroeconomic approach to temporal discounting of monetary gain and loss
+## Previous project 3. Neuroeconomic approach to temporal discounting of monetary gain and loss
 >_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
 
 * I performed human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
